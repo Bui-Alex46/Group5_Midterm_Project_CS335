@@ -2,4 +2,13 @@
 
 ### Group Members:
 Name: Alex Bui
+
 Email: buia4@csu.fullerton.edu
+
+Name:
+
+Email:
+
+Name:
+
+Email
